@@ -32,19 +32,12 @@
                                 <strong>Email:</strong> @user.Email
                             </p>
 
-                            <p class="card-text text-muted mb-1">
-                                <strong>Age:</strong> @user.Age
-                            </p>
-
-                            <p class="card-text text-muted">
-                                <strong>Score:</strong> @user.Score
-                            </p>
-
                         </div>
 
                         <div class="card-footer bg-transparent border-0 text-end">
-                            <a class="btn btn-outline-dark btn-sm">Edit</a>
-                            <a class="btn btn-outline-danger btn-sm">Delete</a>
+                            <a href="/Users/Details/@user.Id" class="btn btn-outline-secondary btn-sm">Details</a>
+                            <a href="/Users/Edit/@user.Id" class="btn btn-outline-dark btn-sm">Edit</a>
+                            <a href="/Users/Delete/@user.Id" class="btn btn-outline-danger btn-sm">Delete</a>
                         </div>
 
                     </div>

@@ -228,3 +228,4 @@ C:\Users\hp\Desktop\FullStack course\Bach-End and ASP.Net\app1\WebApplication1(m
 C:\Users\hp\Desktop\FullStack course\Bach-End and ASP.Net\app1\WebApplication1(mvc)\WebApplication1(mvc)\obj\Debug\net9.0\WebApplication1(mvc).pdb
 C:\Users\hp\Desktop\FullStack course\Bach-End and ASP.Net\app1\WebApplication1(mvc)\WebApplication1(mvc)\obj\Debug\net9.0\WebApplication1(mvc).genruntimeconfig.cache
 C:\Users\hp\Desktop\FullStack course\Bach-End and ASP.Net\app1\WebApplication1(mvc)\WebApplication1(mvc)\obj\Debug\net9.0\ref\WebApplication1(mvc).dll
+C:\Users\hp\Desktop\FullStack course\Bach-End and ASP.Net\app1\WebApplication1(mvc)\WebApplication1(mvc)\obj\Debug\net9.0\WebApplication1(mvc).sourcelink.json
